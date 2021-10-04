@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = teresa.finsterwald@gmail.com
+	name = Teresa Finsterwald
